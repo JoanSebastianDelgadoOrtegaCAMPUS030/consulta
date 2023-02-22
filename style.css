@@ -1,0 +1,22 @@
+body{
+    background-image: url(img/fondo.jpg);
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-color: black;
+}
+
+
+
+.titulo1{
+    text-align: center;
+}
+.titulo2{
+    text-align: center;
+}
+.titulo4{
+    text-align: center;
+}
+.titulo5{
+    text-align: center;
+    
+}
